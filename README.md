@@ -1,4 +1,4 @@
-# Visualisation
+# Visualization
 
 Adventure works database :
 
